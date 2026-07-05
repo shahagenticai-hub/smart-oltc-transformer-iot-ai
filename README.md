@@ -10,6 +10,9 @@ Traditional mechanical OLTCs are slow, prone to arcing, and require frequent mai
 
 On top of the hardware, a complete software stack was built providing real-time monitoring, ML-based anomaly detection, and AI-powered natural language interaction with live sensor data.
 
+## Demo
+Watch the live demo on LinkedIn: https://www.linkedin.com/posts/ali-muntazir-mahdi_finalyearproject-machinelearning-artificialintelligence-ugcPost-7474965203298799616-jfFa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGhgYuwB84aYr6S_Rwc-JW8CBrbfM-i7lPU
+
 ---
 
 ## System Architecture
